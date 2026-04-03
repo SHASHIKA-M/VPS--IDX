@@ -28,7 +28,7 @@ This repository provides `vps.sh`, a menu-driven Bash script to:
 
 1. Open Google IDX: https://idx.google.com/
 2. Import this repository:
-   - https://github.com/SHASHIKA-M/VPS-debian11
+   - https://github.com/SHASHIKA-M/VPS--IDX
 3. Run:
 
 ```bash
@@ -39,7 +39,7 @@ chmod +x vps.sh
 Or run directly from GitHub:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/SHASHIKA-M/VPS-debian11/main/vps.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/SHASHIKA-M/VPS--IDX/main/vps.sh)
 ```
 
 ## Quick start (local Linux)
