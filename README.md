@@ -1,4 +1,4 @@
-# VPS-debian11
+# VPS--IDX
 
 Interactive multi-VM manager for Google IDX and Linux hosts using QEMU/KVM + cloud images.
 
